@@ -60,7 +60,7 @@ The model takes the following health indicators as input:
 | Age | Age in years |
 
 ---
-screenshots/Screenshot 2026-06-14 143530.png
+
 
 ## 🛠️ Tech Stack
 
